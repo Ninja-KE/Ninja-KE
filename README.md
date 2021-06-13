@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ninja-KE
-- 👀 I’m a fullstack software DEVELOPER(MERN)
-- 🌱 I’m currently learning flutter mobile development
+- 👀 I’m a fullstack software DEVELOPER
 - 💞️ I’m looking to collaborate on web and mobile app projects
 - 📫 Reach me at: developer.collinsm@gmail.com
 
