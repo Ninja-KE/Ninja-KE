@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ninja-KE
-- 👀 I’m a fullstack software DEVELOPER
+- 👀 I’m a Node.js diehard 😃😃
 - 💞️ I’m looking to collaborate on web and mobile app projects
 - 📫 Reach me at: developer.collinsm@gmail.com
 
