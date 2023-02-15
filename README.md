@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ninja-KE
 - 👀 I’m a Node.js diehard 😃😃
-- 💞️ I’m looking to collaborate on web and mobile app projects
+- 💞️ I’m looking to collaborate on real-time, IoT, and other exciting server side projects.
 - 📫 Reach me at: developer.collinsm@gmail.com
 
 <!---
